@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @praise113
 - 👀 I’m interested in Coding, Gaming, Anime...
-- 🌱 I’m currently learning C, C++, java, python
-- 💞️ I’m looking to collaborate on Projects involving Java, python, C, C++.
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on Projects involving Python, C, C++, Java.
 - 📫 How to reach me @ ikennaonyeaghala@gmail.com
 
 <!---
